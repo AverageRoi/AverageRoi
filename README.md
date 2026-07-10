@@ -1,8 +1,6 @@
 # Hi, I'm Rodrigo
 
-I make music and code things I wish already existed.
-
-I'm a student from Madrid. Most of the things here started because I wanted a tool, couldn't find one that did exactly what I wanted, and decided to make it.
+I'm a student from Madrid. I make music and build things with code, mostly when I have a reason to.
 
 ### A few things I've built
 
