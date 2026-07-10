@@ -1,7 +1,5 @@
 # Hi, I'm Rodrigo
 
-I'm a student from Madrid. I make music and build things with code, mostly when I have a reason to.
-
 ### A few things I've built
 
 #### **[Avenue Guard](../avenue-guard-public)**
