@@ -1,6 +1,6 @@
 # Hi, I'm Rodrigo
 
-### Things I've built
+### A few things I've worked on:
 
 #### [Avenue Guard](https://github.com/AverageRoi/avenue-guard-public)
 
