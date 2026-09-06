@@ -1,7 +1,5 @@
 # Hi, I'm Rodrigo
 
-I build software and make music, with a growing interest in research.
-
 ### Things I've built
 
 #### [Avenue Guard](https://github.com/AverageRoi/avenue-guard-public)
