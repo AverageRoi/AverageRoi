@@ -2,7 +2,7 @@
 
 ### A few things I've worked on:
 
-#### [Avenue Guard](https://github.com/AverageRoi/avenue-guard-public)
+#### [Avenue Guard](https://github.com/AverageRoi/avenue-guard-case-study)
 
 > Production community infrastructure for Geometry Dash Avenue, a 3k+ member Discord community. It runs level requests, activity rewards, support and tickets, moderation workflows, persistent state, diagnostics, backups, and operational analytics.
 
