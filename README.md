@@ -20,4 +20,4 @@
 
 I also compose and arrange music.
 
-More of my work, including music, research, and other projects, is on my [portfolio](https://rodrigov.netlify.app/).
+More of my work, including music, research, and other projects, is on my [portfolio](https://averageroi.netlify.app/).
