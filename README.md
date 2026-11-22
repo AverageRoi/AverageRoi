@@ -10,10 +10,10 @@
 
 > A live Discord bot for Minecraft communities to save shared locations, find nearby places, and work with coordinates across dimensions.
 
-#### [Nauta Web](https://github.com/AverageRoi/nauta-web)
+#### [Turina Organizado](https://github.com/AverageRoi/Turina-Organizado)
 
-> Nauta's public website and documentation hub, built with Astro and adapted from an open-source foundation with Nauta-specific pages, search, documentation, and browser testing.
-
+> A website for a student-led organization advocating for public education and student representation, built with Hugo and featuring news, events, and resources for the school community.
+> 
 #### [Shaw](https://github.com/AverageRoi/Shaw)
 
 > A focused Discord spoiler bot that catches exposed terms while ignoring correctly hidden spoilers, URLs, and protected Markdown.
